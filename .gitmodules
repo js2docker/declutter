@@ -1,0 +1,3 @@
+[submodule "vendor/bypass-paywalls-chrome"]
+	path = vendor/bypass-paywalls-chrome
+	url = https://github.com/iamadamdev/bypass-paywalls-chrome.git
